@@ -24,7 +24,7 @@ A comprehensive market intelligence application that combines **Tavily AI** for 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/market-intelligence-llm.git
+   git clone https://github.com/yourusername/market-intelligence-llm.git](https://github.com/skkuhg/Market-Intelligence-LLM-LangChain.git
    cd market-intelligence-llm
    ```
 
